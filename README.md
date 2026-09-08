@@ -26,6 +26,41 @@
 > Mobile MA is an independent, unofficial community client. It is not part of the official
 > Music Assistant project — with respect and thanks to the team that builds and maintains it.
 
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center"><img src="images/iphone-home.png" width="170" alt="Home screen with scenes and players"></td>
+    <td align="center"><img src="images/iphone-nowplaying.png" width="170" alt="Now Playing with artwork and transport controls"></td>
+    <td align="center"><img src="images/iphone-library.png" width="170" alt="Library grid of artists"></td>
+    <td align="center"><img src="images/iphone-players.png" width="170" alt="Player overview with volume and grouping"></td>
+    <td align="center"><img src="images/iphone-themes.png" width="170" alt="Theme picker with eight colour schemes"></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Home</sub></td>
+    <td align="center"><sub>Now Playing</sub></td>
+    <td align="center"><sub>Library</sub></td>
+    <td align="center"><sub>Players</sub></td>
+    <td align="center"><sub>Themes</sub></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" colspan="2"><img src="images/carplay.png" width="360" alt="Now Playing on CarPlay"></td>
+    <td align="center" colspan="2"><img src="images/ipad-library.png" width="300" alt="Library on iPad with sidebar"></td>
+    <td align="center"><img src="images/watch-nowplaying.png" width="130" alt="Now Playing on Apple Watch"></td>
+    <td align="center"><img src="images/watch-players.png" width="130" alt="Player list on Apple Watch"></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><sub>CarPlay</sub></td>
+    <td align="center" colspan="2"><sub>iPad</sub></td>
+    <td align="center" colspan="2"><sub>Apple Watch</sub></td>
+  </tr>
+</table>
+
+<sub>Artwork and track names in these screenshots are obscured or replaced with placeholders.</sub>
+
 ## What it does
 
 Start music in any room, group your players, keep your stations close — from your phone,
