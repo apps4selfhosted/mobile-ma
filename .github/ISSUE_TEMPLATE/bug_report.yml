@@ -1,0 +1,72 @@
+name: Bug report
+description: Something in Mobile MA does not work as expected
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report this. The more precise the steps, the faster it can be fixed.
+
+        Please do not include server URLs, tokens or passwords anywhere in this report.
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Describe the problem and what you expected instead.
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open ...
+        2. Tap ...
+        3. The app ...
+    validations:
+      required: true
+
+  - type: input
+    id: app-version
+    attributes:
+      label: Mobile MA version
+      description: Settings → About, e.g. 3.5
+    validations:
+      required: true
+
+  - type: input
+    id: os-version
+    attributes:
+      label: Device and OS version
+      placeholder: iPhone 15 Pro, iOS 18.6 — or Apple Watch Series 9, Apple TV 4K, CarPlay
+    validations:
+      required: true
+
+  - type: input
+    id: server-version
+    attributes:
+      label: Music Assistant server version
+      placeholder: e.g. 2.9.13
+    validations:
+      required: true
+
+  - type: dropdown
+    id: connection
+    attributes:
+      label: Which connection were you using?
+      options:
+        - Home network (direct)
+        - Remote access (WebRTC)
+        - Both / not sure
+    validations:
+      required: true
+
+  - type: textarea
+    id: diagnostics
+    attributes:
+      label: Diagnostics or screenshots
+      description: |
+        Since version 3.5 you can record the problem anonymously under Settings → Diagnostics
+        and share the result as a text file. Attach it here if you have one.

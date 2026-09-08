@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Frequently asked questions
+    url: https://www.mobile-ma.app/en/faq/
+    about: Connection problems, players not appearing, purchases — start here.
+  - name: Private support request
+    url: https://www.mobile-ma.app/en/support/
+    about: Reaches the developer directly, without posting publicly.
+  - name: Music Assistant server issues
+    url: https://github.com/music-assistant/support
+    about: For problems with the server itself, not with this app.
