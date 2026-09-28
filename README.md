@@ -18,6 +18,8 @@
   ·
   <a href="https://www.mobile-ma.app/changelog/">Changelog</a>
   ·
+  <a href="https://github.com/apps4selfhosted/mobile-ma/releases">Releases</a>
+  ·
   <a href="https://github.com/apps4selfhosted/mobile-ma/issues">Report an issue</a>
 </p>
 
@@ -92,6 +94,11 @@ a tap, so there is nothing to type during setup.
 results across providers and finds radio stations by name, and a Continue Listening section for
 podcasts and audiobooks with variable speed and configurable skip intervals.
 
+**AI Radio.** Turn your server into a radio station. Start AI Radio stations from the
+Radio tab, or put an AI host on any queue — your library, Spotify or Tidal — who talks
+between the tracks. Stations work in multi-room scenes and in CarPlay. Requires the
+AI Radio plugin on your Music Assistant server (2.10.3 or newer).
+
 **Your data stays yours.** Mobile MA talks only to the server you configured. No intermediary
 service, no account, no sign-up, no third-party analytics or advertising SDKs. Credentials live
 in the iOS Keychain and sync via iCloud between your own devices only.
@@ -99,7 +106,7 @@ in the iOS Keychain and sync via iCloud between your own devices only.
 ## Requirements
 
 - A running [Music Assistant](https://www.music-assistant.io) server
-- iOS / iPadOS 18.6 or later · tvOS 17.0 or later
+- iOS / iPadOS 18.6 or later · watchOS 10.0 or later · tvOS 17.0 or later
 - Free download. Unlimited is a one-time purchase — no subscription.
 
 ## Support
