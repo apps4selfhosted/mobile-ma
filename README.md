@@ -4,10 +4,15 @@
 
 <h1 align="center">Mobile MA</h1>
 
+<p align="center">
+  <strong>An unofficial, independent client for <a href="https://www.music-assistant.io">Music Assistant</a>.</strong><br>
+  Not affiliated with, developed, endorsed or reviewed by the Music Assistant project or the Open Home Foundation.
+</p>
+
 <p align="center"><strong>Your music. Your server. Everywhere.</strong></p>
 
 <p align="center">
-  A native SwiftUI client for <a href="https://www.music-assistant.io">Music Assistant</a> —
+  A native SwiftUI app that connects to your own Music Assistant server —
   on iPhone, iPad, Apple Watch, Apple TV and CarPlay.
 </p>
 
@@ -25,8 +30,11 @@
 
 ---
 
-> Mobile MA is an independent, unofficial community client. It is not part of the official
-> Music Assistant project — with respect and thanks to the team that builds and maintains it.
+> Mobile MA is a community project by Sven Hanold. It is not part of the official Music Assistant
+> project and not an Open Home Foundation product. "Music Assistant" is the name of their project and
+> is used here only to say what this app connects to — with respect and thanks to the team that
+> builds and maintains it. The official app and everything about the project:
+> [music-assistant.io](https://www.music-assistant.io).
 
 ## Screenshots
 
